@@ -29,3 +29,6 @@ python asl_realtime.py predict
 ## ⚠️ Notes
 - Requires webcam
 - Accuracy depends on dataset
+
+ ## ✨ Author
+- Developed by Apoorva Karoshi, Alisha Hunchalkar, Komal Karadegouda, Krutika Kotewale
